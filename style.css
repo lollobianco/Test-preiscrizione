@@ -1,0 +1,104 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.rettangolo{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  width: 1200px;
+  height: 850px;
+  margin: 0px auto;
+  margin-top: 30px;
+  padding: 100px 80px 100px 80px;
+  display: block;
+}
+
+.logo{
+  width: 250px;
+  display: block;
+  margin: 0px auto;
+}
+
+#titolo{
+  font-size: 30px;
+  margin: 0% 27%;
+  display: inline-block;
+  color: rgb(0, 221, 0);
+  font-family: 'Comfortaa', cursive;
+  margin-top: 15px;
+}
+
+#barra-verde{
+background-color: rgba(0, 221, 0, 1);
+height: 40px;
+margin-top: 5px;
+margin-bottom: 20px;
+padding: 1% 35%
+}
+
+section{
+  font-family: 'Comfortaa', cursive;
+  color: rgba(255, 225, 255);
+  font-size: 10pt;
+}
+
+.nome-monopattino{
+  font-size: 20px;
+  display: inline;
+  margin-top: 1%;
+}
+
+.dettagli{
+  display: block;
+  margin: 0.3%
+}
+
+#barra1{
+  background-color: rgba(245, 180, 83, 1);
+  border-radius: 5px;
+  width: 350px;
+  height: 30px;
+  margin-top: 5px;
+  margin-right: 15px;
+  margin-bottom: 25px;
+}
+
+#barra2{
+  background-color: rgba(30, 195, 30, 1);
+  border-radius: 5px;
+  width: 600px;
+  height: 30px;
+  margin-top: 5px;
+  margin-right: 15px;
+  margin-bottom: 25px;
+}
+
+#barra3{
+  background-color: rgba(190, 65, 65, 1);
+  border-radius: 5px;
+  width: 150px;
+  height: 30px;
+  margin-top: 5px;
+  margin-right: 15px;
+  margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
